@@ -3,7 +3,7 @@
 This is a javascript todo list application. You can add/remove todos and search for existing todos in the list. The UI is built using HTML, CSS and it is all done using Javascript LocalStorage.
 
 
-<img width="800" alt="React Messenger Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/907414331229077504/Screenshot_165.png?width=1399&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and Todo List App . It includes: 
 
