@@ -18,7 +18,7 @@ Simple and Todo List App . It includes:
 
 Make sure you have the latest version of ES6 installed.
 
-1. `git clone https://github.com/AmirhosseinAbazari/Todo-List-App`
+1. `git clone https://github.com/am-abazari/Todo-List-App`
 2. Run `index.html`
 3. Open [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
@@ -30,4 +30,4 @@ The project is using the <strong>JavaScript LocalStorage</strong>. All configura
 
 ## About Author
 
-<strong>Amirhossein Abazari</strong> Front-End Web Developer
+<strong>Amirhossein Abazari</strong> Full-Stack Web Developer
